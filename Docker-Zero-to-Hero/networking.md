@@ -15,10 +15,9 @@ xxxxxxxxxxxx        none                null
 xxxxxxxxxxxx        host                host
 xxxxxxxxxxxx        bridge              bridge
 ```
-
+   
 
 ### Bridge Networking
-
 The default network mode in Docker. It creates a private network between the host and containers, allowing
 containers to communicate with each other and with the host system.
 

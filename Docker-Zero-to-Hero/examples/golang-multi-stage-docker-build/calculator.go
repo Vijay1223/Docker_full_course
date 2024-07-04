@@ -60,7 +60,7 @@ func main() {
 			continue
 		}
 
-		// Print the result
+		// P Print the result
 		fmt.Printf("Result: %d\n", result)
 	}
 }
